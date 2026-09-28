@@ -2,7 +2,7 @@
 
 Scale a réuni **plus de 30 magasins** de sneakers en France.
 
-![Nouveaux partenaires — The Last Step, BackUp, SNK Trade](../assets/partenaire-the-last-step.webp)
+![Nouveaux partenaires — The Last Step, BackUp, SNK Trade](partenaire-the-last-step.webp)
 
 ## La liste
 
@@ -43,6 +43,6 @@ Scale a réuni **plus de 30 magasins** de sneakers en France.
 ## Comment les magasins étaient recrutés
 
 * Prospection directe des boutiques, en ligne et en magasin
-* Présentation « Scale Shop » envoyée aux magasins (voir [Ressources](../ressources.md))
+* Présentation « Scale Shop » envoyée aux magasins (voir [Ressources](ressources.md))
 * Recommandations via l'apporteur d'affaires
 * Annonce publique de chaque nouveau partenaire sur Instagram

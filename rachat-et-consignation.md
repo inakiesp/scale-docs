@@ -13,7 +13,7 @@ Le magasin achète la paire tout de suite.
 5. Le magasin reçoit la paire et vérifie son authenticité.
 6. Le vendeur est payé sur son portefeuille.
 
-![Exemple d'offre de rachat](../assets/offre-rachat.webp)
+![Exemple d'offre de rachat](offre-rachat.webp)
 
 ## La consignation
 
@@ -33,4 +33,4 @@ Le magasin met la paire en vente dans sa boutique, **sans l'acheter à l'avance*
 * La création de l'étiquette d'expédition
 * Le suivi de la transaction jusqu'au paiement
 
-![Découvrir les nouvelles offres dans l'application](../assets/app-nouvelles-offres.webp)
+![Découvrir les nouvelles offres dans l'application](app-nouvelles-offres.webp)

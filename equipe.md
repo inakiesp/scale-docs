@@ -29,6 +29,6 @@ Le produit a été construit avec des **développeurs freelances**, suivis par l
 
 ## Les partenaires clés
 
-* **API Money** (W-HA, groupe Orange) — paiement et portefeuilles sécurisés. Voir [Paiement sécurisé avec API Money](../paiement-api-money.md).
+* **API Money** (W-HA, groupe Orange) — paiement et portefeuilles sécurisés. Voir [Paiement sécurisé avec API Money](paiement-api-money.md).
 * **Simon Pradeilles** — apporteur d'affaires qui représentait à lui seul plus de 20 boutiques supplémentaires.
 * **La Poste** — expédition des colis avec étiquettes prépayées.

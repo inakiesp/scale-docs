@@ -2,7 +2,7 @@
 
 La charte graphique 2023 définit l'image de Scale.
 
-![Direction artistique](assets/charte-direction.webp)
+![Direction artistique](charte-direction.webp)
 
 ## Les mots-clés
 
@@ -16,7 +16,7 @@ La direction s'inspire des projets déjà existants de Sneakify et One CookLab, 
 
 Une flèche qui monte en zigzag, comme une courbe de prix, associée au mot SCALE.
 
-![Logo](assets/charte-logo.webp)
+![Logo](charte-logo.webp)
 
 ## Les couleurs
 
@@ -29,19 +29,19 @@ Une flèche qui monte en zigzag, comme une courbe de prix, associée au mot SCAL
 | Azureish White | `#CCE2F2` | Couleur secondaire |
 | Papaya Whip | `#FCEFD4` | Couleur secondaire |
 
-![Couleurs](assets/charte-couleurs.webp)
+![Couleurs](charte-couleurs.webp)
 
 ## La typographie
 
 **SF Pro Display**, de Ultralight à Heavy.
 
-![Typographie](assets/charte-typographie.webp)
+![Typographie](charte-typographie.webp)
 
 ## Mises en situation
 
-![Fonds](assets/charte-fonds.webp)
+![Fonds](charte-fonds.webp)
 
-![Packaging et objets](assets/charte-mise-en-situation.webp)
+![Packaging et objets](charte-mise-en-situation.webp)
 
 {% hint style="info" %}
 Charte réalisée par SKO Conseil. Le PDF complet (23 pages) est dans [Ressources](ressources.md).

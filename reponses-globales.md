@@ -3,7 +3,7 @@
 <details>
 <summary>Comment fonctionne Scale ?</summary>
 
-Les magasins partenaires publient les paires qu'ils cherchent. Si vous avez la paire, vous recevez l'offre ; vous l'acceptez en un clic, vous envoyez la paire avec l'étiquette fournie, et vous êtes payé après authentification. Voir [Rachat et consignation](../fonctionnement/rachat-et-consignation.md).
+Les magasins partenaires publient les paires qu'ils cherchent. Si vous avez la paire, vous recevez l'offre ; vous l'acceptez en un clic, vous envoyez la paire avec l'étiquette fournie, et vous êtes payé après authentification. Voir [Rachat et consignation](rachat-et-consignation.md).
 
 </details>
 
@@ -17,14 +17,14 @@ Dès que le magasin a reçu et authentifié la paire, l'argent passe du compte s
 <details>
 <summary>Y a-t-il des frais sur mes ventes ?</summary>
 
-Oui : 4 % au départ (2,8 % pour Scale et 1,2 % pour le paiement sécurisé). Ils baissent jusqu'à 3 % quand vous vendez plus. Voir [Frais et niveaux vendeurs](../regles-vendeurs/frais-et-niveaux.md).
+Oui : 4 % au départ (2,8 % pour Scale et 1,2 % pour le paiement sécurisé). Ils baissent jusqu'à 3 % quand vous vendez plus. Voir [Frais et niveaux vendeurs](frais-et-niveaux.md).
 
 </details>
 
 <details>
 <summary>Combien de temps ai-je pour envoyer ma paire ?</summary>
 
-72 heures ouvrées après le deal, avec la possibilité de demander 24 heures de plus. Au-delà, la transaction est annulée et une pénalité peut s'appliquer. Voir [Pénalités et infractions](../regles-vendeurs/penalites.md).
+72 heures ouvrées après le deal, avec la possibilité de demander 24 heures de plus. Au-delà, la transaction est annulée et une pénalité peut s'appliquer. Voir [Pénalités et infractions](penalites.md).
 
 </details>
 

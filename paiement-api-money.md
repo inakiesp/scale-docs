@@ -36,7 +36,7 @@ Trois raisons principales :
 
 Les frais d'API Money (**1,2 %** par transaction) étaient inclus dans les frais vendeur de Scale. Le vendeur payait **4 % au total** au départ : 2,8 % pour Scale et 1,2 % pour le paiement. Les magasins ne payaient aucun frais.
 
-Voir [Frais et niveaux vendeurs](regles-vendeurs/frais-et-niveaux.md).
+Voir [Frais et niveaux vendeurs](frais-et-niveaux.md).
 
 ## Dans le développement
 

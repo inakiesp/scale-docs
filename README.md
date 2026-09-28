@@ -4,7 +4,7 @@ description: La marketplace qui reliait particuliers et magasins de sneakers, en
 
 # Présentation de Scale
 
-![Scale — Vendez partout en Europe](assets/cover.webp)
+![Scale — Vendez partout en Europe](cover.webp)
 
 Scale est la première plateforme de mise en relation entre **particuliers** et **magasins professionnels** de sneakers. Avec plus de **30 magasins partenaires**, les membres reçoivent des offres de **rachat** et de **consignation** pour leurs paires, sans passer par les groupes Discord ou Facebook.
 
@@ -29,8 +29,8 @@ Scale a fonctionné d'avril 2023 à janvier 2025. Cette documentation présente 
 
 ## Par où commencer ?
 
-* [Pourquoi Scale ?](le-projet/pourquoi-scale.md) — le problème et l'idée
-* [Rachat et consignation](fonctionnement/rachat-et-consignation.md) — comment ça marche
+* [Pourquoi Scale ?](pourquoi-scale.md) — le problème et l'idée
+* [Rachat et consignation](rachat-et-consignation.md) — comment ça marche
 * [Paiement sécurisé avec API Money](paiement-api-money.md) — notre partenaire de paiement
-* [Magasins partenaires](partenaires/magasins.md) — le réseau
+* [Magasins partenaires](magasins.md) — le réseau
 * [Bilan du projet](bilan.md) — pourquoi Scale s'est arrêté

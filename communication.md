@@ -8,24 +8,24 @@ Chaque magasin signé était annoncé en post et en story.
 
 | | | |
 | --- | --- | --- |
-| ![The Last Step](../assets/partenaire-the-last-step.webp) | ![BackUp](../assets/partenaire-backup.webp) | ![SNK Trade](../assets/partenaire-snk-trade.webp) |
+| ![The Last Step](partenaire-the-last-step.webp) | ![BackUp](partenaire-backup.webp) | ![SNK Trade](partenaire-snk-trade.webp) |
 
 ## 2. Les rachats du jour
 
 Un point quotidien sur les offres de rachat disponibles, pour donner envie aux membres d'ouvrir l'application.
 
-![Les rachats du jour sur Scale](../assets/rachats-du-jour.webp)
+![Les rachats du jour sur Scale](rachats-du-jour.webp)
 
 ## 3. Les nouvelles offres
 
 Des bannières et des stories pour mettre en avant les meilleures offres.
 
-![Les meilleures offres](../assets/meilleures-offres.webp)
+![Les meilleures offres](meilleures-offres.webp)
 
-![Nouvelle offre](../assets/nouvelle-offre.webp)
+![Nouvelle offre](nouvelle-offre.webp)
 
 ## Les autres canaux
 
 * **Discord** : animation de la communauté de vendeurs
 * **Newsletters** marketing
-* **Vidéos** au format réseaux sociaux (voir [Ressources](../ressources.md))
+* **Vidéos** au format réseaux sociaux (voir [Ressources](ressources.md))
