@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Scale
+  structure:
+    - type: space
+      key: scale
+      title: Scale
+      path: scale
+      default: true
+      content:
+        directory: ./
