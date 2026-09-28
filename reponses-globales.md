@@ -38,20 +38,36 @@ Mettez la confirmation de vente dans la boîte, placez-la dans un carton d'expé
 <details>
 <summary>Comment récupérer une paire consignée ?</summary>
 
-*À compléter.*
+Tant que la paire n'est pas vendue, vous pouvez la récupérer à tout moment depuis l'application : onglet **Transactions**, puis **Demander le retour** sur la paire concernée.
+
+* Le magasin est prévenu et dispose de **5 jours ouvrés** pour renvoyer la paire.
+* Scale génère l'étiquette de retour La Poste ; les frais d'envoi sont à votre charge et sont déduits de votre portefeuille.
+* Si vous habitez près du magasin, vous pouvez aussi convenir avec lui d'un **retrait en boutique**, sans frais.
+
+Une paire déjà vendue ou réservée par un client du magasin ne peut plus être récupérée : le montant de la consignation vous est alors versé.
 
 </details>
 
 <details>
 <summary>En cas de perte du colis, qui est responsable ?</summary>
 
-*À compléter.* Scale n'est pas responsable des articles mal emballés : suivez bien les instructions d'expédition.
+Chaque envoi se fait avec une étiquette La Poste **suivie**, générée par Scale.
+
+* **Colis perdu pendant le transport** : si la paire a été emballée selon nos instructions et déposée avec l'étiquette Scale, Scale ouvre une réclamation auprès de La Poste. La transaction est annulée, l'argent bloqué est rendu au magasin, et le vendeur est indemnisé à hauteur du prix de vente, dans la limite de l'assurance du transporteur.
+* **Pas de preuve de dépôt, étiquette non utilisée ou emballage non conforme** : aucune indemnisation n'est possible, et la vente peut être considérée comme non expédiée.
+
+Conseil : gardez toujours votre **reçu de dépôt** jusqu'à la clôture de la transaction.
 
 </details>
 
 <details>
 <summary>Y a-t-il un prix minimum de vente ?</summary>
 
-*À compléter.*
+Non, Scale n'impose pas de prix plancher.
+
+* En **rachat**, le prix est fixé par l'offre du magasin : vous l'acceptez ou non.
+* En **consignation**, c'est vous qui fixez le prix que vous souhaitez recevoir ; le magasin l'accepte ou le refuse.
+
+Les frais vendeurs (de 3 à 4 % selon votre niveau) s'appliquent quel que soit le prix. Pour une paire de faible valeur, pensez à comparer le prix proposé avec vos frais d'envoi avant d'accepter.
 
 </details>
